@@ -7305,3 +7305,7 @@ a.credit {
   background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#00a4f0),to(#0084ff));
   background-image: linear-gradient(#00a4f0 10%,#0084ff 100%);
 }
+.iconstyles{
+ margin-right: 8px;
+  font-size: 4rem;
+}
