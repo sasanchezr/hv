@@ -5409,7 +5409,7 @@ button.close {
 .carousel-indicators {
     position: absolute;
     right: 0;
-    bottom: 10px;
+    bottom: -38px;
     left: 0;
     z-index: 15;
     display: -ms-flexbox;
