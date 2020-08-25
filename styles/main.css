@@ -7309,3 +7309,12 @@ a.credit {
  margin-right: 10px;
   font-size: 4.3rem;
 }
+.iconref {
+  font-weight: 700;   
+ font-size: 1rem;
+  color: #9A9A9A;
+  margin-right: 50px;
+}
+.iconr {
+  text-align: center;
+}
